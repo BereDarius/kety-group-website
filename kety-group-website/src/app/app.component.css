@@ -1,0 +1,4 @@
+app-toolbar {
+  position: sticky;
+  z-index: 10;
+}

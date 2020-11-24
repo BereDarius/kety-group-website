@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+a {
+  text-decoration: none;
+  color: black;
+  font-family: Raleway, sans-serif;
+  font-weight: bold;
+}
+
+.kety-title {
+  font-size: 1.5em;
+}
+
+.menu-spacer {
+  flex: 1 1 auto;
+}
